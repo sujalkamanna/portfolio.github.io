@@ -1,51 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sujal Kamanna</h1>
+<h3 align="center">I'm Sujal Kamanna, and I'm delighted to have you here. This profile is my little corner of the internet where I share my thoughts, interests, and creations.</h3>
 
-<!--
-**sujalkamanna/sujalkamanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalkamanna&label=Profile%20views&color=0e75b6&style=flat" alt="sujalkamanna" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujalkamanna" alt="sujalkamanna" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Outside of work and projects, I have a wide range of interests. From sports to various co-curricular, there's always something captivating my attention. Don't hesitate to reach out if you share any of these passions!**
 
-<!-- HELLO THERE -->
+- ⚡ Fun fact **PEACE**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sujalkamanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujalkamanna" height="30" width="40" /></a>
+<a href="https://instagram.com/sujal_kamanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujal_kamanna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sujalkamanna2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujalkamanna2003" height="30" width="40" /></a>
+</p>
 
-# Welcome to My Profile! 🌟
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## About Me
-Hey there! I'm Sujal Kamanna, and I'm delighted to have you here. This profile is my little corner of the internet where I share my thoughts, interests, and creations.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalkamanna&show_icons=true&locale=en&layout=compact" alt="sujalkamanna" /></p>
 
-## What You'll Find Here
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalkamanna&show_icons=true&locale=en" alt="sujalkamanna" /></p>
 
-### Projects
-I'm a big believer in learning by doing, so I often have various projects on the go.I'm always working on something exciting. Feel free to check them out and let me know what you think!
-
-### Interests
-Outside of work and projects, I have a wide range of interests. From sports to various co-curricular, there's always something captivating my attention. Don't hesitate to reach out if you share any of these passions!
-
-## Let's Connect
-I'm all about building connections and engaging in meaningful conversations. Whether you want to discuss a recent blog post, collaborate on a project.I'm here for it. Feel free to drop me a message anytime!
-
-## Stay Updated
-Don't forget to follow me for updates on new blog posts, projects, and whatever else I'm up to. Let's embark on this journey together!
-
-Thanks for stopping by, and I hope you enjoy exploring my profile!
-
-Sujal Kamanna <br>
-github profile : https://github.com/sujalkamanna
-<br>
-linkedin :
-https://in.linkedin.com/in/sujalkamanna
-
----
-
-Feel free to customize it according to your preferences and the specific content of your profile!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalkamanna&" alt="sujalkamanna" /></p>
