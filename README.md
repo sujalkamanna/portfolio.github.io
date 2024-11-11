@@ -9,18 +9,30 @@
 
 - ⚡ Fun fact **PEACE**
 
-<h3 align="center" style="color: #333;">My Portfolio</h3>
+<h3 align="center" style="color: #333;">My Portfolios</h3>
 
-<!-- Portfolio Card -->
+<!-- Portfolio Card for GitHub Pages -->
 <p align="center">
   <a href="https://sujalkamanna.github.io/sujalkamanna/" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-%23008151?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Button" />
+    <img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-%23008151?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio Button" />
+  </a>
+</p>
+
+<!-- Text explanation for alternative portfolio -->
+<p align="center" style="font-size: 16px; color: #666;">
+  If the GitHub Pages portfolio doesn't work for you, check out my <strong>Alternative Portfolio</strong> below.
+</p>
+
+<!-- Portfolio Card for Alternative Portfolio URL -->
+<p align="center">
+  <a href="https://sujalkamanna.interns-es2.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Alternative%20Portfolio-%23008151?style=for-the-badge&logo=globe&logoColor=white" alt="Alternative Portfolio Button" />
   </a>
 </p>
 
 <p align="center">
   <span style="font-size: 16px; color: #666;">
-    Explore my web development journey, projects, and creations in detail on my personal portfolio website.
+    Explore my web development journey, projects, and creations in detail on both my personal portfolio websites.
   </span>
 </p>
 
