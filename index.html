@@ -13,7 +13,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon.png">
 
   <!-- Title -->
-  <title>Sujal Kamanna | Software Developer Portfolio</title>
+  <title>Sujal Kamanna | DevOps & Cloud Engineer</title>
+  <meta name="description" content="DevOps & Cloud Engineer skilled in AWS, Linux, automation, and CI/CD pipelines">
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/layout/styles/styles.css">
@@ -84,6 +85,12 @@
               </a>
             </li>
             <li>
+              <a href="#publications" class="nav-link">
+                <span class="nav-text">Publications</span>
+                <span class="nav-dot"></span>
+              </a>
+            </li>
+            <li>
               <a href="resume.html" class="cta-button hover-lift" target="_blank">Resume</a>
             </li>
           </ul>
@@ -119,16 +126,16 @@
           <!-- In your hero section, update the typewriter div -->
           <div class="type-writer fade-in-up animate--delay-2">
             <div id="typed-strings">
-              <span>Cloud</span>
-              <span>AWS & DevOps</span>
-              <span>CI - CD</span>
-              <span>Problem Solving</span>
+              <span>DevOps Engineer</span>
+              <span>Cloud Engineer</span>
+              <span>AWS Specialist</span>
+              <span>Automation Expert</span>
             </div>
             <span id="typed"></span>
           </div>
 
           <p class="description fade-in-up animate--delay-3">
-            Turning innovative ideas into elegant solutions 
+            Turning innovative ideas into elegant solutions
           </p>
 
           <div class="hero-buttons fade-in-up animate--delay-4">
@@ -170,7 +177,7 @@
         <!-- Profile Image Column -->
         <div class="about-image fade-in-right">
           <div class="image-wrapper">
-            <img src="" alt="Sujal Kamanna" class="profile-image" />
+            <img src="/images/profile-image.jpg" alt="Sujal Kamanna" class="profile-image" />
             <div class="image-shape"></div>
           </div>
           <div class="social-links">
@@ -190,45 +197,38 @@
           <h4>B.E. - Computer Science & Engineering</h4>
 
           <div class="about-description">
-            <p>
-              As a computer science student, my objective is to leverage my
-              skills in a challenging tech role, applying my programming
-              expertise and problem-solving abilities to contribute to
-              projects.
-            </p>
-            <p>
-              I aim to continuously expand my knowledge of emerging
-              technologies and grow into a proficient professional who
-              positively impacts team success and aspires to be a recognized
-              leader in the field.
-            </p>
+            <p>DevOps & Cloud Engineer skilled in AWS, Linux, automation, and CI/CD pipelines. Experienced in deploying
+              applications on EC2, S3, RDS, and VPC, with strong command over Git, Docker, Kubernetes, and Python/Shell
+              scripting.</p>
+            <p>Solid foundation in system administration, networking, monitoring, and building scalable, secure cloud
+              environments.</p>
           </div>
 
           <!-- Skills Section -->
-          <div class="skills-container">
-            <h4 class="skills-title">Technical Skills</h4>
-            <div class="skills-grid">
-              <div class="skill-item hover-lift">
-                <i class="fab fa-amazon"></i>
-                <span>AWS</span>
-              </div>
-              <div class="skill-item hover-lift">
-                <i class="fa-solid fa-cloud"></i>
-                <span>Cloud</span>
-              </div>
-              <div class="skill-item hover-lift">
-                <i class="fa-brands fa-linux"></i>
-                <span>Linux</span>
-              </div>
-              <div class="skill-item hover-lift">
-                <i class="fa-brands fa-git"></i>
-                <span>GIT</span>
-              </div>
-              <div class="skill-item hover-lift">
-                <i class="fab fa-github"></i>
-                <span>GitHub</span>
-              </div>
-              <!-- Add more skills as needed -->
+          <div class="skills-grid">
+            <div class="skill-item hover-lift">
+              <i class="fab fa-aws"></i>
+              <span>AWS</span>
+            </div>
+            <div class="skill-item hover-lift">
+              <i class="fab fa-docker"></i>
+              <span>Docker</span>
+            </div>
+
+            <div class="skill-item hover-lift">
+              <img src="kubernetes.svg" alt="Kubernetes logo" width="24" height="24">
+              <span>Kubernetes</span>
+            </div>
+
+
+
+            <div class="skill-item hover-lift">
+              <i class="fab fa-jenkins"></i>
+              <span>Jenkins</span>
+            </div>
+            <div class="skill-item hover-lift">
+              <i class="fab fa-python"></i>
+              <span>Python</span>
             </div>
           </div>
 
@@ -397,57 +397,76 @@
     <div class="container">
       <h2 class="section-title">Projects</h2>
       <div class="projects-grid">
-        <!-- Blinkit Project -->
         <div class="project-card">
           <div class="project-content">
-            <h3>Blinkit Sales Analysis Power BI Dashboard</h3>
-            <p>This Power BI dashboard provides a comprehensive analysis of sales data for Blinkit, enabling
-              stakeholders to make informed decisions.</p>
-            <div class="project-tech">
-              <span>Power BI</span>
-              <span>Data Analysis</span>
-            </div>
-            <div class="project-links">
-              <a href="https://github.com/yourusername/blinkit-dashboard" class="github-btn">
-                <i class="fab fa-github"></i> View on GitHub
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Calculator Project -->
-        <div class="project-card">
-          <div class="project-content">
-            <h3>Django Calculator</h3>
-            <p>Django Calculator is a simple web app built with Django that performs basic arithmetic operations like
-              addition, subtraction, multiplication, and division.</p>
-            <div class="project-tech">
-              <span>Django</span>
-              <span>Python</span>
-            </div>
-            <div class="project-links">
-              <a href="https://github.com/yourusername/django-calculator" class="github-btn">
-                <i class="fab fa-github"></i> View on GitHub
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Employee Database Project -->
-        <div class="project-card">
-          <div class="project-content">
-            <h3>Django Employee Database</h3>
-            <p>Django Employee Database is a web application built with Django to manage and store employee information.
+            <h3>S3 FTP App</h3>
+            <p>Streamlit-based FTP-style file transfer tool for moving files between Local/EC2 machines and Amazon S3.
             </p>
             <div class="project-tech">
-              <span>Django</span>
-              <span>SQL</span>
+              <span>Python</span>
+              <span>AWS S3</span>
+              <span>Streamlit</span>
             </div>
-            <div class="project-links">
-              <a href="https://github.com/yourusername/employee-database" class="github-btn">
-                <i class="fab fa-github"></i> View on GitHub
-              </a>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <div class="project-content">
+            <h3>LAMP Stack Deployment</h3>
+            <p>Dynamic, database-driven web application using LAMP stack, deployed in cloud environment.</p>
+            <div class="project-tech">
+              <span>Linux</span>
+              <span>Apache</span>
+              <span>MySQL</span>
+              <span>PHP</span>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Publications Section -->
+  <section class="publications" id="publications">
+    <div class="container">
+      <h2 class="section-title">Publications & Research</h2>
+      <div class="publication-card">
+        <div class="publication-content">
+          <h3 class="publication-title">
+            Crowdfunding Using Blockchain Technology: A Decentralized Approach
+          </h3>
+
+          <div class="publication-meta">
+            <span class="journal">
+              <i class="fas fa-journal-whills"></i>
+              International Research Journal of Modernization in Engineering Technology and Science
+            </span>
+            <span class="date">
+              <i class="far fa-calendar-alt"></i>
+              June 2025
+            </span>
+          </div>
+
+          <div class="publication-highlights">
+            <ul>
+              <li>
+                <i class="fas fa-check-circle"></i>
+                Proposed a blockchain-based crowdfunding model using smart contracts to improve transparency and reduce
+                intermediaries
+              </li>
+              <li>
+                <i class="fas fa-check-circle"></i>
+                Highlighted system architecture and key mechanisms enabling secure and reliable decentralized funding
+              </li>
+            </ul>
+          </div>
+
+          <div class="publication-links">
+            <a href="https://www.irjmets.com/upload_newfiles/irjmets70600103632/paper_file/irjmets70600103632.pdf"
+              class="paper-link hover-lift" target="_blank">
+              <i class="fas fa-external-link-alt"></i>
+              View Paper
+            </a>
           </div>
         </div>
       </div>
@@ -489,13 +508,14 @@
               <div class="contact-details">
                 <h3>Email</h3>
                 <p>
-                  <a href="mailto:sujalkamanna2003@gmail.com">Mail</a>
+                  <a href="mailto:sujalkamanna2003@gmail.com">sujalkamanna2003@gmail.com</a>
                 </p>
               </div>
             </div>
 
             <div class="social-links">
-              <a href="https://in.linkedin.com/in/sujalkamanna" class="social-btn" target="_blank" aria-label="LinkedIn">
+              <a href="https://in.linkedin.com/in/sujalkamanna" class="social-btn" target="_blank"
+                aria-label="LinkedIn">
                 <i class="fab fa-linkedin-in"></i>
               </a>
               <a href="https://github.com/sujalkamanna" class="social-btn" target="_blank" aria-label="GitHub">
