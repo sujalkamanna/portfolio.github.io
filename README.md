@@ -13,7 +13,7 @@
 
 <!-- Portfolio Card for GitHub Pages -->
 <p align="center">
-  <a href="https://sujalkamanna.github.io/sujalkamanna/" target="_blank">
+  <a href="https://sujalkamanna.github.io/portfolio.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-%23008151?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio Button" />
   </a>
 </p>
